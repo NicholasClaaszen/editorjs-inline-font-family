@@ -1,16 +1,8 @@
 require('./index.css').toString();
 
-const fontFamiliesType = ['Arial', 'Arial Black', 'Arial Narrow', 'Arial Rounded MT Bold',
-  'Avant Garde', 'Baskerville', 'Bodoni MT', 'Book Antiqua', 'Big Caslon', 'Calibri', 'Calisto MT', 'Cambria', 'Candara', 'Century Gothic',
-  'Charcoal', 'Copperplate',
-  'Comic Sans MS', 'Courier New',
-  'Didot',
-  'Franklin Gothic Medium',
-  'Futura', 'Geneva', 'Gill Sans', 'Garamond', 'Georgia', 'Goudy Old Style',
-  'Hoefler Text',
-  'Helvetica',
-  'Helvetica Neue', 'Impact', 'Lucida Sans Unicode', 'Lato', 'Lucida Grande', 'Lucida Bright', 'Monaco', 'Optima', 'Papyrus',
-  'PT Mono', 'Palatino', 'Perpetua', 'Rockwell', 'Roboto', 'Rockwell Extra Bold', 'Segoe UI', 'Tahoma', 'Times New Roman', 'Trebuchet MS', 'Verdana',
+const fontFamiliesType = ['Arial', 'Arial Black', 'Comic Sans', 'Courier', 'Courier New',
+  'Georgia', 'Helvetica', 'Impact', 'Lucida Sans Unicode', 'Tahoma', 'Times',
+  'Times New Roman', 'Trebuchet MS', 'Verdana', 'CorporatieSpecifiek'
 ];
 class FontFamilyTool {
    
